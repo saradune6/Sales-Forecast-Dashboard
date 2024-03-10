@@ -2,6 +2,8 @@
 
 ### The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates. 
 
+# :octocat:Dashboard👇
+<img width="1800" alt="Dashboard snapshort"  src= 'dashboard.mp4'>
 
 ## Objective
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
