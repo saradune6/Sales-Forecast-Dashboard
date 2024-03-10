@@ -22,7 +22,7 @@ Overall, my ultimate goal is to provide useful insights and actionable informati
 Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2019 and 2020.
 
 
-<img width="1800" height='350' alt="Forecast 1" src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/2363c590-c8ba-4add-8e80-850578668774">
+<img width="1800" height='350' alt="Forecast 1"  src= '2.png'>
 
 <img width="1800" height='350' alt="Forecast 2" src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/0ffd9dbe-87ea-488c-906a-d64a3070f0bb">
 
