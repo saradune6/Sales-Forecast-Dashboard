@@ -1,5 +1,4 @@
-# Global-Superstore-Sales-Dashboard-Using-Power-Bi
-<img src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/ffd832af-ddb7-4315-87eb-1dd0fbac56bb" height="400" width="1800" >
+# Sales-Forecast-Dashboard-Using-Power-Bi
 
 ### The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates. 
 
@@ -16,12 +15,6 @@ To help supermarkets achieve their goals for growth, efficiency, and customer sa
 3. I can leverage historic data and apply time series analysis to generate sales forecasts for the next 6 months. This will provide businesses with a better understanding of future sales trends, allowing them to plan and prepare accordingly.
 
 Overall, my ultimate goal is to provide useful insights and actionable information that can support strategic decision-making and help businesses achieve their objectives.
-
-## Interactive Dashboard
-
-
-https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/a33453ef-9943-40f6-829b-047d945b5831
-
 
 ## Sales Forecasting for the next 6 months
 Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2019 and 2020.
