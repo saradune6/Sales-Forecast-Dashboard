@@ -3,7 +3,7 @@
 ### The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates. 
 
 # :octocat:Dashboard👇
-<img width="1800" alt="Dashboard snapshort"  src= '2.png'>
+<img width="1800" alt="Dashboard snapshort"  src= 'dashboard.png'>
 
 ## Objective
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
@@ -22,9 +22,10 @@ Overall, my ultimate goal is to provide useful insights and actionable informati
 Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2019 and 2020.
 
 
+<img width="1800" height='350' alt="Forecast 1"  src= '1.png'>
+
 <img width="1800" height='350' alt="Forecast 1"  src= '2.png'>
 
-<img width="1800" height='350' alt="Forecast 2" src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/0ffd9dbe-87ea-488c-906a-d64a3070f0bb">
 
 ## Project Insights
 * The sales total for this period was 2 million, resulting in a profit of 175k. Unfortunately, there were 5901 product returns.
